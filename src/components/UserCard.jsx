@@ -1,6 +1,9 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-export default function UserCard() {
-    return ( 
-    )
+class  UserCard extends Component {
+    render( ){
+        return ( <h1> hello world</h1>);
+    }
+  
 }
+export default UserCard;
