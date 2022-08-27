@@ -13,3 +13,7 @@ h1 {
 .list {
     padding-left: 88px;
 }
+
+input[type="checkbox"] {
+    margin-left: 10%;
+}
